@@ -1,5 +1,8 @@
 # Java Syllabus Mapping
 
+Created by **Venkatesh Agali**  
+GitHub: **https://github.com/Venkateshagali**
+
 ## Module 1: Basics of Java
 - Programming language: `01_basics/ProgrammingLanguageBasics.java`
 - Tokens of Java: `01_basics/TokensOfJavaDemo.java`

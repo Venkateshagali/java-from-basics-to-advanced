@@ -1,5 +1,8 @@
 # Complete Java Learning Path
 
+Created by **Venkatesh Agali**  
+GitHub: **https://github.com/Venkateshagali**
+
 ## Stage 1: Core Fundamentals
 1. `01_basics`
 2. `02_control_flow`

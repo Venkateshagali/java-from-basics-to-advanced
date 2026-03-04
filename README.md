@@ -2,6 +2,10 @@
 
 This repository is organized topic-wise as a full Java learning path suitable for students, interview prep, and revision.
 
+## Author
+- Created by **Venkatesh Agali**
+- GitHub Profile: **https://github.com/Venkateshagali**
+
 ## Folder Structure
 - `01_basics`
 - `02_control_flow`
@@ -31,8 +35,8 @@ This repository is organized topic-wise as a full Java learning path suitable fo
 From root folder:
 
 ```powershell
-javac ._basics\HelloWorld.java
-java -cp ._basics HelloWorld
+javac .\01_basics\HelloWorld.java
+java -cp .\01_basics HelloWorld
 ```
 
 Compile all files:
