@@ -1,0 +1,9 @@
+# Java build output
+*.class
+
+# VS Code
+.vscode/
+
+# Runtime outputs
+*.ser
+sample.txt
